@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Creative Art Photographer]]></title>
         <description><![CDATA[Creative Art Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anna-northwood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 12:40:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 11:55:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anna-northwood/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[                    wingmen]]></title>
-            <description><![CDATA[<article><h1>                    wingmen</h1><p>2013 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2f15a08fc54dc04c955689ab425dd52b21095ae.jpg"></article>]]></description>
-            <link>undefinedwingmen/index.html</link>
+            <description><![CDATA[<article><h1>                    wingmen</h1><p>2013 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4c83392ae79aa87b71c8052223f8be84564bb78.jpg"></article>]]></description>
+            <link>https://thegrid.ai/anna-northwood/wingmen/index.html</link>
             <guid isPermaLink="false">a83eddf8-ba8f-4397-9ddd-2ccae3ac17a1</guid>
-            <pubDate>Sat, 23 Jan 2016 12:40:28 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 11:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
