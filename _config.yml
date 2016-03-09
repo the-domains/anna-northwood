@@ -1,6 +1,6 @@
 name: Anna Northwood
 favicon: null
-layout_spectrum: 0.6707
+layout_spectrum: 0.68515
 typography_spectrum: 0.14208
 title: Creative Art Photographer
 cta:
@@ -23,7 +23,7 @@ color:
     - '#868581'
     - '#63625e'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.25
+  lightness: 0
+  saturation: 0.375
   rhythmicContrast: 0
 purpose: []
